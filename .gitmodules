@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/gokulnathan66/music-recomendation-backend.git
+	branch = master
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/gokulnathan66/music-recommender-frontend.git
+	branch = main
