@@ -19,6 +19,9 @@ This repository contains both the **frontend** and **backend** components of the
 ✅ **AI-Powered Music Recommendations** with external API support (e.g., Last.fm, Spotify).  
 ✅ **User Authentication & Session Management** (optional).  
 ✅ **Interactive Chat System** for seamless user interaction.  
+✅ **Using Gemini Function Calling API** for seamless user interaction.  
+
+
 
 ## 🛠 Tech Stack  
 ### Frontend  
